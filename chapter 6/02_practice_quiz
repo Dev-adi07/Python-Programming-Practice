@@ -1,0 +1,12 @@
+a = int(input("Enter your age: "))
+
+# quick quiz write a program to print yes
+if(a>=18):
+    print("You are of age of consent")
+    print("Good for you")
+
+else:
+    print("You are below the age of consent")
+
+
+print("yes")
